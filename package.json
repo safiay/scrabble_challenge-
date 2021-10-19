@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  },
+  "name": "scrabble_challenge-",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "brace-expansion": "^1.1.11",
+    "balanced-match": "^1.0.2",
+    "concat-map": "^0.0.1",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.2.0",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "jasmine-core": "^3.10.0",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "minimatch": "^3.0.4",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safiay/scrabble_challenge-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safiay/scrabble_challenge-/issues"
+  },
+  "homepage": "https://github.com/safiay/scrabble_challenge-#readme"
+}
